@@ -1,3 +1,3 @@
 # new-repository
 test
-adding cganges to the main repository
+adding changes to the main repository
